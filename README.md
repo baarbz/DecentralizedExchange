@@ -1,2 +1,2 @@
 # DecentralizedExchange
- Develop automated market maker (AMM) functionality
+Develop automated market maker (AMM) functionality
